@@ -6,10 +6,10 @@
 }
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-color: rgb(226, 226, 226);
 }
 
 .main-container{
+    background-color: #edf2f8;
     display: flex;
     min-height:100vh;
     align-items: center;
