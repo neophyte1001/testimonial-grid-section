@@ -2,5 +2,5 @@
 ## Welcome! 👋
 This repository contains my solution to Frontend Mentor's challenge on "Testimonial Grid Section".
 
-#Screenshots
-![Image](/main/screenshots/desktop.png?raw=true "Desktop Preview")
+# Screenshots
+![Alt text](/screenshots/desktop.png?raw=true "Desktop Preview")
