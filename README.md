@@ -1,6 +1,10 @@
-# Frontend Mentor - Testimonials grid section
-## Welcome! 👋
-This repository contains my solution to Frontend Mentor's challenge on "Testimonial Grid Section".
+# Testimonial-Grid-Section (grid,flexbox)
+   ![Desktop Preview](./images/Grid-Testimonial.png)
 
-# Desktop View
-![Alt text](/screenshots/desktop.png?raw=true "Desktop Preview")
+## Hey there 👋, thanks for visiting.
+  It contains my solution to "Frontend Mentor's" challenge which you can try [here](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+  You need basic understanding of CSS grid, Flexbox.
+
+## Learnings
+* Using grid to make layout.
+* Making grid responsive
